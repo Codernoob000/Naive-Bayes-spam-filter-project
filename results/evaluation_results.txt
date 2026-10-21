@@ -1,0 +1,15 @@
+NAIVE BAYES SPAM FILTER - EVALUATION RESULTS
+
+Training messages: 4135
+Testing messages: 1034
+Vocabulary size: 7720
+
+Accuracy: 0.9797
+Spam precision: 0.8929
+Spam recall: 0.9542
+Spam F1-score: 0.9225
+
+Confusion matrix (rows=actual, columns=predicted):
+Label order: ham, spam
+[[888  15]
+ [  6 125]]
